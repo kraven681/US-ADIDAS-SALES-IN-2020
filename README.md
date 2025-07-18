@@ -40,6 +40,6 @@ This report analyzes Adidas retail performance across the United States in 2020 
 
 3.Reinforced foundational knowledge in Excel
 # 📬 Contact
-📧 Email:mohdsamiali758@gmail.com
+📧 Email:(mohdsamiali758@gmail.com)
 
-🔗 [LinkedIn][(www.linkedin.com/in/sami-ali-datascientist)]
+🔗 LinkedIn:(www.linkedin.com/in/sami-ali-datascientist)
