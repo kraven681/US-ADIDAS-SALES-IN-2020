@@ -1,2 +1,25 @@
-# US-ADIDAS-SALES-IN-2020
-An in-depth data analysis project exploring Adidas retail sales across the US in 2020. This project uncovers trends, top-performing products, regional insights, and monthly sales patterns using a cleaned dataset of transaction records.
+![UsaNavyGIF](https://github.com/user-attachments/assets/898a78d4-9c4d-44e8-93b6-113f81a11368)
+# 📊 US-ADIDAS-SALES-IN-2020
+This report analyzes Adidas retail performance across the United States in 2020 based on the dataset provided. The primary objective is to extract key insights, trends, and performance indicators across products, regions, and sales methods. The data includes sales transactions segmented by product types, cities, regions, retailers, and other operational metrics like profit and margin.
+# 🔭Dataset Overview
+1 Time Period: January 1, 2020 – December 31, 2020
+
+2 Attributes Analyzed:
+
+3 Retailer, State, City, Region
+
+4 Product Type and Price
+
+5 Units Sold and Total Sales
+
+6 Operating Profit and Margin
+
+7 Sales Method (Online/In-store)
+# 👾Data Analysis and Insights and methodology
+1.Cleaned data, extracted month/year from dates.
+
+2.Grouped by product, region, retailer, and sales method.
+
+3.Used pivot tables, charts, and correlations for analysis.
+# 🧷 Files Included
+
